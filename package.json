@@ -1,6 +1,6 @@
 {
-	"author": "Kelyn Thomas",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Kelyn Thomas",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
